@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="jilongsansheng" size="100.000000 124.657532" />
+    <ImageTarget name="bawanglong" size="100.000000 124.657532" />
+    <ImageTarget name="jiaobilong" size="100.000000 124.657532" />
+    <ImageTarget name="ytl" size="100.000000 124.657532" />
+    <ImageTarget name="ydl" size="100.000000 124.657532" />
+    <ImageTarget name="qianggulong" size="100.000000 124.657532" />
+    <ImageTarget name="nanshizilong" size="100.000000 124.657532" />
+    <ImageTarget name="mmxl" size="100.000000 124.657532" />
+    <ImageTarget name="jialong" size="100.000000 124.657532" />
+    <ImageTarget name="hunyulong" size="100.000000 124.657532" />
+    <ImageTarget name="bingjilong" size="100.000000 124.657532" />
+    <ImageTarget name="banlong" size="100.000000 124.657532" />
+    <ImageTarget name="shejinglong" size="100.000000 124.657532" />
+    <ImageTarget name="yingwulong" size="100.000000 124.657532" />
+    <ImageTarget name="shirounilong" size="100.000000 124.657532" />
+    <ImageTarget name="jianlong" size="100.000000 124.657532" />
+    <ImageTarget name="zhongtoulong" size="100.000000 124.657532" />
+    <ImageTarget name="wanlong" size="100.000000 124.657532" />
+    <ImageTarget name="wuchiyilong" size="100.000000 124.657532" />
+    <ImageTarget name="tuojianglong" size="100.000000 124.657532" />
+    <ImageTarget name="kenshilong" size="100.000000 124.657532" />
+    <ImageTarget name="zhilong" size="100.000000 124.657532" />
+    <ImageTarget name="situolong" size="100.000000 124.657532" />
+    <ImageTarget name="sanjiaolong" size="100.000000 124.657532" />
+    <ImageTarget name="jilong" size="100.000000 124.657532" />
+    <ImageTarget name="agentinglong" size="100.000000 124.657532" />
+  </Tracking>
+</QCARConfig>
